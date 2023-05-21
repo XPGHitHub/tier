@@ -9,7 +9,7 @@ let games =
 		],
 		"characters": [
 			{"name": "png", "main": true, "imageSets": ["ssb4","ssb4r"]},
-			{"name": "png", "main": true, "imageSets": ["ssb4","ssb4r"]},
+			{"name": "TU_Grasshopper_PKG", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "png", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "png", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "png", "main": true, "imageSets": ["ssb4","ssb4r"]},

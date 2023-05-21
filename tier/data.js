@@ -9,9 +9,9 @@ let games =
 		],
 		"characters": [
 			{"name": "CC_BuffaloWorm_Z1", "main": true, "imageSets": ["ssb4","ssb4r"]},
-			{"name": "luigi", "main": true, "imageSets": ["ssb4","ssb4r"]},
-			{"name": "peach", "main": true, "imageSets": ["ssb4","ssb4r"]},
-			{"name": "bowser", "main": true, "imageSets": ["ssb4","ssb4r"]},
+			{"name": "CC_BuffaloWorm_Z1", "main": true, "imageSets": ["ssb4","ssb4r"]},
+			{"name": "CC_BuffaloWorm_Z1", "main": true, "imageSets": ["ssb4","ssb4r"]},
+			{"name": "CC_BuffaloWorm_Z1", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "yoshi", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "rosalinaluma", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "bowserjr", "main": true, "imageSets": ["ssb4","ssb4r"]},

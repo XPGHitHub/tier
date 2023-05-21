@@ -48,7 +48,7 @@ td {
 	border: solid 3px black;
 	margin: 0;
 	padding: 0;
-	height: 150px;
+	height: 100px;
 }
 
 tr {
@@ -66,7 +66,7 @@ table {
 
 .labelHolder {
 	min-width: 48px;
-	height: 150px;
+	height: 100px;
 	transition: background .3s;
 }
 
@@ -84,7 +84,7 @@ table {
 
 .tier {
 	width: 960px;
-	min-height: 150px;
+	min-height: 100px;
 	text-align: left;
 }
 
@@ -97,8 +97,8 @@ td:last-of-type {
 }
 
 #settings {
-	width: 150px;
-	height: 150px;
+	width: 100px;
+	height: 100px;
 	background: url('img/settings.png') center no-repeat;
 	cursor: pointer;
 	transition: all .3s;
@@ -112,8 +112,8 @@ td:last-of-type {
 }
 
 #moveButtons {
-	width: 150px;
-	height: 150px;
+	width: 100px;
+	height: 100px;
 	display:inline-block;
 }
 div#moveUp {
@@ -141,13 +141,13 @@ div#moveDown {
 }
 
 img {
-	height: 150px;
+	height: 100px;
 }
 
 .character {
 	display:inline-block;
-	height: 150px;
-	width: 150px;
+	height: 100px;
+	width: 100px;
 	background-position: center;
 	background-size: cover;
 }

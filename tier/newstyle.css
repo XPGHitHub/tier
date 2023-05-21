@@ -48,7 +48,7 @@ td {
 	border: solid 3px black;
 	margin: 0;
 	padding: 0;
-	height: 64px;
+	height: 150px;
 }
 
 tr {
@@ -66,7 +66,7 @@ table {
 
 .labelHolder {
 	min-width: 48px;
-	height: 64px;
+	height: 150px;
 	transition: background .3s;
 }
 
@@ -112,8 +112,8 @@ td:last-of-type {
 }
 
 #moveButtons {
-	width: 64px;
-	height: 64px;
+	width: 150px;
+	height: 150px;
 	display:inline-block;
 }
 div#moveUp {
@@ -141,13 +141,13 @@ div#moveDown {
 }
 
 img {
-	height: 64px;
+	height: 150px;
 }
 
 .character {
 	display:inline-block;
-	height: 64px;
-	width: 64px;
+	height: 150px;
+	width: 150px;
 	background-position: center;
 	background-size: cover;
 }

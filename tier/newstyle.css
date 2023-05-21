@@ -118,14 +118,14 @@ td:last-of-type {
 }
 div#moveUp {
 	height:32px;
-	width:64px;
+	width:100px;
 	background: url('img/arrowup.png') center no-repeat;
 	cursor: pointer;
 	transition: all .3s;
 }
 div#moveDown {
 	height:32px;
-	width:64px;
+	width:100px;
 	background: url('img/arrowdown.png') center no-repeat;
 	cursor: pointer;
 	transition: all .3s;

@@ -8,7 +8,7 @@ let games =
 			{"folder": "ssb4r", "name": "Renders"}
 		],
 		"characters": [
-			{"name": "mario", "main": true, "imageSets": ["ssb4","ssb4r"]},
+			{"name": "png", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "luigi", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "peach", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "bowser", "main": true, "imageSets": ["ssb4","ssb4r"]},

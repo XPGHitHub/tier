@@ -84,7 +84,7 @@ table {
 
 .tier {
 	width: 960px;
-	min-height: 64px;
+	min-height: 150px;
 	text-align: left;
 }
 
@@ -97,8 +97,8 @@ td:last-of-type {
 }
 
 #settings {
-	width: 64px;
-	height: 64px;
+	width: 150px;
+	height: 150px;
 	background: url('img/settings.png') center no-repeat;
 	cursor: pointer;
 	transition: all .3s;

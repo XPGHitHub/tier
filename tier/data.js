@@ -28,7 +28,7 @@ let games =
 			{"name": "TL_MoleCricket", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "TL_Silkworm", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "TL_Superworm", "main": true, "imageSets": ["ssb4","ssb4r"]},
-			{"name": "palutena", "main": true, "imageSets": ["ssb4","ssb4r"]},
+			{"name": "TL_Termite(2)", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "marth", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "ike", "main": true, "imageSets": ["ssb4","ssb4r"]},
 			{"name": "robin", "main": true, "imageSets": ["ssb4","ssb4r"]},
